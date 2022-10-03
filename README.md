@@ -10,8 +10,8 @@
 - Fun Facts: Work as a professional photographer and cinematographer for movies. 
 ### Connect with me:
 
-[<img align="left" alt="tonycapelli_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="tonycapelli_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tonycapelli_ | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png" />][twitter]
+[<img align="left" alt="tonycapelli_ | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" />][instagram]
 
 <br />
 
