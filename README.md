@@ -1,6 +1,6 @@
 ## Hi there! I am Tony, from Palermo, Italy.  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tonycapelli_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftonycapelli_&screen_name=tonycapelli_)
+[![Twitter Follow](/twitter/follow/:tonycapelli?label=Follow)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftonycapelli_&screen_name=tonycapelli_)
 
 ## iOS Developer / React Developer. 
 
