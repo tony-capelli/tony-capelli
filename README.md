@@ -4,7 +4,6 @@
 
 ## iOS Developer / React Developer. 
 
-
 - Learning iOS Development. 
 - Graduated in software engineer.
 - 2023 Goals: Get a job as a junior iOS Dev
