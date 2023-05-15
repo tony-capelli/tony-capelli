@@ -34,8 +34,8 @@ src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_l
 src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-1024.png" />
 <img align="left" alt="NodeJS" width="26px"
 src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-1024.png" />
-<img align="left" alt="NodeJS" width="26px"
-src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-1024.png](https://cdnlogo.com/logo/wordpress_128057.html)" />
+<img align="left" alt="WordPress" width="26px"
+src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-512.png" />
 
 
 
