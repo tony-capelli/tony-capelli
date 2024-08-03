@@ -9,6 +9,7 @@
 - Graduated in software engineer.
 - 2024 Goals: Get a job as a junior iOS Dev
 - Fun Facts: Work as a professional photographer and cinematographer for movies. 
+
 ### Connect with me:
 
 [<img align="left" alt="tonycapelli_ | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png" />][twitter]
