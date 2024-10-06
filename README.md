@@ -18,8 +18,6 @@
 
 <br />
 
-Website: https://tonycapelli.it
-
 
 ### Languages and Tools:
 
@@ -48,9 +46,11 @@ src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-512.png" />
 
 
 
-
 </details>
+<br/>
 
+### Personal Website:
+https://tonycapelli.it
 
 [twitter]: https://twitter.com/tonycapelli_
 [instagram]: https://www.instagram.com/tonycapelli_/
