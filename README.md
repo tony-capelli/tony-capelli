@@ -7,7 +7,7 @@
 
 - Learning iOS Development. 
 - Graduated in software engineer.
-- 2025 Goals: Get a job as a junior iOS Dev
+- 2026 Goals: Get a job as a junior iOS Dev or as a Front-End Dev
 - Fun Facts: Work as a professional photographer and cinematographer for movies. 
 
 ### Connect with me:
